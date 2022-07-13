@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    top: 80px;
+    position: relative;
+    font-size: 70px;
+    color: blue;
+}
+#container{
+    position: relative;
+}
+#cont2{
+    position: absolute;
+}
